@@ -1,8 +1,5 @@
 //Day 2: Conditional Statements: If-Else
 
-/* 나의 풀이
-  전형적인 if-else 문법 
-*/
 function getGrade(score) {
   let grade;
   if(0<=score && score<=5){

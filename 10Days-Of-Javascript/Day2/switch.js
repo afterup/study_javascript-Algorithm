@@ -1,6 +1,5 @@
 //Day 2: Conditional Statements: Switch
 
-//나의 풀이
 function getLetter(s) {
   let letter;
   const firstCharCode = s[0].charCodeAt(0)-97;

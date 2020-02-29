@@ -1,6 +1,5 @@
 //Day 3: Arrays
 
-//나의 풀이 _ 틀림
 function getSecondLargest(nums) {
   let sortNums = nums.sort().reverse();
 
